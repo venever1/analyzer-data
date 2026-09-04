@@ -1,0 +1,27 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Build artifacts
+*.egg-info/
+build/
+dist/
+
+# Output tool (chart & laporan default)
+charts/
+reports/
+report.html
+report.md
+*_charts/
+
+# OS junk
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
