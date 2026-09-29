@@ -42,6 +42,14 @@ CLI tool Python general-purpose untuk membaca file CSV/TSV/log, menampilkan ring
 
 ---
 
+## 📸 Contoh Hasil
+
+**Line chart dengan deteksi outlier (titik merah):**
+![Contoh line chart dengan outlier](docs/images/value_line.png)
+
+**Histogram distribusi data:**
+![Contoh histogram](docs/images/value_hist.png)
+
 ## 📦 Instalasi
 
 ### Prasyarat
