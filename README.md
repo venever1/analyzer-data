@@ -63,7 +63,7 @@ cd analyzer-data
 
 *(Atau unduh ZIP lalu ekstrak dan masuk ke foldernya.)*
 
-**2. Buat virtual environment** (praktik baik supaya dependency tidak mengotorisi Python global):
+**2. Buat virtual environment** (praktik baik supaya dependency tidak mengotori Python global):
 
 ```bash
 python -m venv .venv
