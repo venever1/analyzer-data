@@ -1,6 +1,6 @@
 # Data Analyzer CLI
 
-![Tests](https://github.com/user/analyzer-data/actions/workflows/tests.yml/badge.svg)
+[![Tests](https://github.com/venever1/analyzer-data/actions/workflows/tests.yml/badge.svg)](https://github.com/venever1/analyzer-data/actions/workflows/tests.yml)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
